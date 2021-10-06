@@ -13,7 +13,7 @@
 
 **INTERNAL ATTACK DATA**|**MANAGEMENT**|**INTELLIGENCE**|**EMERGING THREATS**
 ---|---|---|---
-Email, Incident Tickets, Red/Purple Ops|Their concerns/agende etc.|Industry vertical, previous/current targeting, open source, paid, etc.|Org Relevant trending/new threats
+Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vertical, previous/current targeting, open source, paid, etc.|Org Relevant trending/new threats
 <p></p>
 <p>🔗<b>ADVERSARY DETECTION PIPELINE CYCLE</b></p>
 <ol>
