@@ -41,6 +41,7 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
 <ul>
   <li>Adam Pennington. Emulating an Adversary with Imperfect Intelligence. DEF CON 28 Red Team Village - <a href="https://youtu.be/cXlWY3OnjO0">Link</a></li>
  <li>MITRE ATT&CK TTP Training - <a href="https://attack.mitre.org/resources/training/cti/">Link</a></li>
+ <li>MITRE ENGENUITY - ATT&CK Evaluations - <a href="https://attackevals.mitre-engenuity.org/">Link</a></li>
 </ul>
 <p>🔥<b>CYBER THREAT INTELLIGENCE</b></p>
 <ul>
