@@ -17,9 +17,9 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
 <p></p>
 <p>🔗<b>ADVERSARY DETECTION PIPELINE CYCLE</b></p>
 <ol>
-  <li><b>CTI</b> - Collection and Research for Relevant threats</li>
+  <li><b>CTI</b> - Prioritized Collection and Research for Relevant Threats</li>
   <li><b>CTI ANALYSIS</b> - Analysis and Preparation of Deliverable</li>
-  <li><b>OTHER TEAMS</b> - Red, Hunt, Purple, SOC, Detection Engineering <b>act</b> on CTI provided context</li>
+ <li><b>OTHER TEAMS</b> - Red, Hunt, Purple, SOC, Detection Engineering <b><i>ACT</b></i> on CTI provided context</li>
   <li><b>FEEDBACK/INPUT</b> - Communication and Collaboration</li>
   <li><b>RINSE & REPEAT</b></li>
 </ol>
