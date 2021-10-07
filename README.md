@@ -9,13 +9,16 @@
 <p align="center">I plan on discussing the pain points to threat intel and sharing that this presentation is not for the Microsofts and Targets of the world but instead for the orgs that want to get more value out of their small CTI team. I'll discuss why true attribution is a bad idea for most organizations with real world examples. Then, I will provide real world examples of how TTPs can help an organization better by knowing the What and How (TTPs) versus the Who and Why (true attribution). I'll show examples of how an org can build out an adversary detection pipeline starting with the attack data in their mail and expanding out to the WAF attack data and tickets with the SOC/DFIR. A discussion of mapping MITRE ATT&CK ttps and how to find the specific procedures. Next, there will be real world examples of adversary detection pipelines and how purple team exercises can be run from threat intel specific to the org's attack data. Finally, a discussion of reporting for management/department that is possible as a result of the adversary detection pipelines. Main takeaways: Squeeze more value out of the data you are already collecting, Showing how any organization can leverage threat intel through adversary detection pipelines, regardless of internal skill sets or experience, Heatmaps for threat actor campaign volume, multiple year tracking, delivery rate, click rate, and more used to prioritize Hunt, Red Team, and Blue Team actions with respect to Threat Actor Activity, Intelligence driven hypothesis creation for threat hunting, How to operationalize adversary detection pipelines to enhance red team & purple team activities, particularly to improve adversary emulation/simulation, RELEVANT red team ops, Higher fidelity alerts for the SOC with less false positives.</p>
 <p></p>
 <p><h1 align="left">🚬<b>"I'M SO HAPPY 'CAUSE TODAY I FOUND MY FRIENDS, THEY'RE IN MY HEAD" - Kurt Cobain</b></h1></p>
-<p>🕯️<b>ADVERSARY DETECTION PIPELINES</b></p>
+<h3 align="center">😎Ch33r10's CTI Capability Model Self-Assessment Spreadsheet - <a href="https://docs.google.com/spreadsheets/d/1MLFXE7lDrkkqYblIIXz6Vx8OtKCt49wp0U29P0p1kEE/edit?usp=sharing">Link</a></h3>
+<img src="https://github.com/ch33r10/THOTCON0xB/blob/main/Nirvana/cticapabilitymodelselfassessment.png">
+<p></p>
+<h3 align="left">🕯️<b>ADVERSARY DETECTION PIPELINES</b></h3>
 
 **INTERNAL ATTACK DATA**|**MANAGEMENT**|**INTELLIGENCE**|**EMERGING THREATS**
 ---|---|---|---
 Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vertical, previous/current targeting, open source, paid, etc.|Org Relevant trending/new threats
 <p></p>
-<p>🔗<b>ADVERSARY DETECTION PIPELINE CYCLE</b></p>
+<h3 align="left">🔗<b>ADVERSARY DETECTION PIPELINE CYCLE</b></h3>
 <ol>
   <li><b>CTI</b> - Prioritized Collection and Research for Relevant Threats</li>
   <li><b>CTI ANALYSIS</b> - Analysis and Preparation of Deliverable</li>
