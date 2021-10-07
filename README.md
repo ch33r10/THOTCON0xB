@@ -10,7 +10,7 @@
 <p></p>
 <p><h1 align="left">🚬<b>"I'M SO HAPPY 'CAUSE TODAY I FOUND MY FRIENDS, THEY'RE IN MY HEAD" - Kurt Cobain</b></h1></p>
 <h3 align="center">😎Ch33r10's CTI Capability Model Self-Assessment Spreadsheet - <a href="https://docs.google.com/spreadsheets/d/1MLFXE7lDrkkqYblIIXz6Vx8OtKCt49wp0U29P0p1kEE/edit?usp=sharing">Link</a></h3>
-<p align="center"><img src="https://github.com/ch33r10/THOTCON0xB/blob/main/Nirvana/cticapabilitymodelselfassessment.png"></p>
+<p align="center"><img src="https://github.com/ch33r10/THOTCON0xB/blob/main/Nirvana/ctiselfassessment.png"></p>
 <p></p>
 <h3 align="left">🕯️<b>ADVERSARY DETECTION PIPELINES</b></h3>
 
