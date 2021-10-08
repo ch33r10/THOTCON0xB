@@ -74,12 +74,13 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
 <ul>
  <li>Ch33r10's Twitter Threat Hunting List - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a></li>
  <li>David J. Bianco and Cat Self. SANS Threat Hunting & IR Europe Summit 2020 - <a href="https://youtu.be/HInxsRyYCK4">Link</a></li>
+  <li>David J. Bianco. The ThreatHunting Project - <a href="https://www.threathunting.net/">Link</a></li>
  <li>Joshua Stevens. Hunting for the Undefined Threat: Advanced Analytics & Visualization. RSA Conference 2015 - <a href="https://docs.huihoo.com/rsaconference/usa-2015/anf-w04-hunting-the-undefined-threat-advanced-analytics-visualization.pdf">Link</a></li>
  <li>Matt Bromiley. Thinking like a Hunter: Implementing a Threat Hunting Program. SANS Analyst Paper - <a href="https://www.sans.org/reading-room/whitepapers/analyst/thinking-hunter-implementing-threat-hunting-program-38923">Link</a></li>
  <li>Robert M. Lee and David J. Bianco. Generating Hypotheses for Successful Threat Hunting. SANS Analyst White Paper - <a href="https://www.sans.org/reading-room/whitepapers/threats/generating-hypotheses-successful-threat-hunting-37172">Link</a></li>
    <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
- <li>The ThreatHunting Project by David J. Bianco - <a href="https://www.threathunting.net/">Link</a>
-  <li>Practical Threat Intelligence and Data-Driven Threat Hunting by Valentina Costa-Gazcon - <a href="https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370">Link</a></li>
+ <li>Roberto Rodriquez. ThreatHunter Playbook - <a href="https://github.com/OTRF/ThreatHunter-Playbook">Link</a></li>
+  <li>Valentina Costa-Gazcon. Practical Threat Intelligence and Data-Driven Threat Hunting - <a href="https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370">Link</a></li>
   </ul>
  <p>👾<b>MALWARE ANALYSIS</b></p>
  <ul>
