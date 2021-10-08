@@ -58,7 +58,6 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
  <li>Scott J. Roberts. CTI Squad Goals-Setting Requirements - <a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918">Link</a></li>
  <li>Sergio Caltagirone. Building Threat Hunting Strategies with the Diamond Model - <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/">Link</a></li>
  <li>Sergio Caltagirone, Andrew Pendergast, & Christopher Betz. The Diamond Model of Intrusion Analysis - <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf">Link</a></li>   
-<li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
 </ul>
 <p>👑<b>DETECTION ENGINEERING</b></p>
 <ul>
@@ -66,6 +65,11 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
 <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
  </ul>
+<p>🕶<b>DFIR</b></p>
+ <ul>
+  <li>Ali Hadi's DFIR Resources - <a href="https://www.youtube.com/channel/UCnGqqX9vefQV0d68ktNblrQ/featured">Link</a></li>
+ <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
+  </ul>
 <p>🌎<b>HUNT</b></p>
 <ul>
  <li>Ch33r10's Twitter Threat Hunting List - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a></li>
@@ -75,6 +79,7 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
  <li>Robert M. Lee and David J. Bianco. Generating Hypotheses for Successful Threat Hunting. SANS Analyst White Paper - <a href="https://www.sans.org/reading-room/whitepapers/threats/generating-hypotheses-successful-threat-hunting-37172">Link</a></li>
    <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
  <li>The ThreatHunting Project by David J. Bianco - <a href="https://www.threathunting.net/">Link</a>
+  <li>Practical Threat Intelligence and Data-Driven Threat Hunting by Valentina Costa-Gazcon - <a href="https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370">Link</a></li>
   </ul>
  <p>👾<b>MALWARE ANALYSIS</b></p>
  <ul>
