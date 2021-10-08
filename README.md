@@ -10,6 +10,7 @@
 <p></p>
 <p><h1 align="left">🚬<b>"I'M SO HAPPY 'CAUSE TODAY I FOUND MY FRIENDS, THEY'RE IN MY HEAD" - Kurt Cobain</b></h1></p>
 <h3 align="center">😎Ch33r10's CTI Capability Model Self-Assessment Spreadsheet - <a href="https://docs.google.com/spreadsheets/d/1MLFXE7lDrkkqYblIIXz6Vx8OtKCt49wp0U29P0p1kEE/edit?usp=sharing">Link</a></h3>
+<p>Citation: Shin, B., & Lowry, P. B. (2020). A review and theoretical explanation of the ‘Cyberthreat-Intelligence (CTI) capability’ that needs to be fostered in information security practitioners and how this can be accomplished. Computers & Security 92(101761), pages 1-16. <a href="https://doi.org/10.1016/j.cose.2020.101761">https://doi.org/10.1016/j.cose.2020.101761</a>
 <p align="center"><img src="https://github.com/ch33r10/THOTCON0xB/blob/main/Nirvana/ctiselfassessment.png"></p>
 <p></p>
 <h3 align="left">🕯️<b>ADVERSARY DETECTION PIPELINES</b></h3>
@@ -29,10 +30,11 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
  <p></p> 
 <p></p>
 <p><h1 align="left">⚡🎸<b>"HERE WE ARE NOW, ENTERTAIN US" - Kurt Cobain</b></h1></p>
+<p>The resources below are pointers...all you gotta do is pull that string and keep pulling.</p>
 
 <p>📻<b>ATTRIBUTION</b></p>
 <ul>
- <li>Brian Bartholomew & Juan Andres Guerrero-Saade. Wave Your False Flags! Deception Tactics Muddying Attribution in Targeted Attacks - <a href="https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2017/10/20114955/Bartholomew-GuerreroSaade-VB2016.pdf">Link</a></p>
+ <li>Brian Bartholomew & Juan Andres Guerrero-Saade. Wave Your False Flags! Deception Tactics Muddying Attribution in Targeted Attacks - <a href="https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2017/10/20114955/Bartholomew-GuerreroSaade-VB2016.pdf">Link</a></li>
  <li>Jake Williams. Conducting a Successful False Flag Operation. BlackHat Europe 2019 - <a href="https://youtu.be/W2vBu_Jui9A">Link</a></li>
  <li>Jason D. Jolley. Attribution, State Responsibility, and the Duty to Prevent Malicious Cyber-Attacks in International Law - <a href="https://www.amazon.com/ATTRIBUTION-RESPONSIBILITY-MALICIOUS-CYBER-ATTACKS-INTERNATIONAL-ebook/dp/B07TYJYFYM/ref=sr_1_1?dchild=1&keywords=jason+jolley+attribution&qid=1599458954&sr=8-1">Link</a></li>
  <li>Katie Nickels. The Attribution Game: When Knowing Your Adversary Matters - <a href="https://redcanary.com/blog/apt-attribution-rsa/">Link</a></li>
@@ -51,12 +53,19 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
  <li>Amy Bejtlich. Analytic Tradecraft in the Real World - <a href="https://youtu.be/MWJZsW9HooY">Link</a></li>
  <li>Bongsik Shin and Paul Benjamin Lowry. A review and theoretical explanation of the ‘Cyberthreat-Intelligence (CTI) capability’ that needs to be fostered in information security practitioners and how this can be accomplished - <a href="https://doi.org/10.1016/j.cose.2020.101761">Link</a></li>
  <li>Brian P. Kime. Threat Intelligence: Planning and Direction - <a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857">Link</a></li>
+  <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
  <li>Rebekah Brown & Robert M. Lee. The Evolution of CTI: 2019 SANS CTI Survey - <a href="https://www.sans.org/reading-room/whitepapers/threats/paper/38790#:~:text=SANS%20has%20been%20tracking%20the,its%20applications%20in%20information%20security.&text=While%20the%20use%20of%20CTI,size%2Dfits%2Dall%20approach">Link</a></li>
  <li>Scott J. Roberts. CTI Squad Goals-Setting Requirements - <a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918">Link</a></li>
  <li>Sergio Caltagirone. Building Threat Hunting Strategies with the Diamond Model - <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/">Link</a></li>
  <li>Sergio Caltagirone, Andrew Pendergast, & Christopher Betz. The Diamond Model of Intrusion Analysis - <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf">Link</a></li>   
 <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
 </ul>
+<p>👑<b>DETECTION ENGINEERING</b></p>
+<ul>
+ <li>Detection Ideas Repo by Vadim Khrykov @BlackMatter23 - <a href="https://github.com/vadim-hunter/Detection-Ideas-Rules/">Link</a></li>
+<li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
+ <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
+ </ul>
 <p>🌎<b>HUNT</b></p>
 <ul>
  <li>David J. Bianco and Cat Self. SANS Threat Hunting & IR Europe Summit 2020 - <a href="https://youtu.be/HInxsRyYCK4">Link</a></li>
@@ -66,23 +75,36 @@ Email, Incident Tickets, Red/Purple Ops|Their concerns/agenda etc.|Industry vert
    <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
   <li>Ch33r10's Twitter Threat Hunting List - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a></li>
   </ul>
-<p>🌠<b>PURPLE</b></p>
+ <p>👾<b>MALWARE ANALYSIS</b></p>
+ <ul>
+ <li>Coleman Kane. Malware Analysis - <a href="https://class.malware.re/">Link</a></li>
+ <li>Monnappa K A. Learning Malware Analysis - <a href="https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W">Link</a></li>
+</ul>
+ <p>🌠<b>PURPLE</b></p>
 <ul>
-  <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
   <li>Ch33r10's Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
  <li>Ch33r10's Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
  <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
   <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
- <p>👾<b>MALWARE ANALYSIS</b></p>
- <ul>
- <li>Coleman Kane. Malware Analysis - <a href="https://class.malware.re/">Link</a></li>
- <li>Monnappa K A. Learning Malware Analysis - <a href="https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W">Link</a></li></ul>
+<p>👹<b>RED</b></p>
+<ul>
+<li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
+ <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
+ <li>Joe Vest & James Tubberville's Red Team Development and Operations - <a href="https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633/ref=sr_1_1?dchild=1&keywords=joe+vest+red+team+book&qid=1633667294&sr=8-1">Link</a>
+ <li>Red Teaming Techniques & Experiments - <a href="https://www.ired.team/">Link</a>
+<li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
+ <li>Vincent Yiu's Red Team Tips - <a href="https://www.vincentyiu.com/red-team-tips">Link</a>
+ </ul>
 <p>🎵<b>RESOURCES</b></p>
 <ul>
 <li>Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
 <li>Ch33r10's Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
+ <li>MITRE CAR - Cyber Analytics Repository - <a href="https://car.mitre.org/">Link</a></li>
+ <li>MITRE D3FEND - <a href="https://d3fend.mitre.org/">Link</a></li>
+ <li>MITRE SHIELD - <a href="https://shield.mitre.org/matrix/">Link</a></li>
+ <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
 <li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
 </ul>
 <b></b>
